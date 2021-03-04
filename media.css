@@ -1,0 +1,120 @@
+*{
+ margin: 0px;
+padding: 0px;
+}
+
+/* navbar */
+#navbar{
+    flex-direction: column;
+
+}
+#logo img{
+    height: 87px;
+     
+}
+
+#navbar ul li{
+    font-size: 17px;
+
+}
+#navbar ul li a{
+    padding: 2px 6px;
+
+}
+
+/* home section */
+#home::before{
+    height: 118vh;
+    width: 100vw;
+}
+#home p{
+    margin-right: 42px;
+    width: 350px;
+    margin-top: 0px;
+    font-size: 26px;
+
+}
+#home{
+height: 94vh;
+}
+
+#home p1{
+    width: 274px;
+   
+}
+#home .h-primary{
+    font-size: 19px;
+    width:  280px;   
+}
+
+#home .center{
+    margin-right: 39px;
+    width: 297px;
+    font-size: 12px;
+}
+
+
+/* work section */
+
+
+#work-section .h-primary{
+    font-size: 31px;
+}
+
+#work-section{
+   
+   
+    background-image: linear-gradient(62deg, #b85f5f 0%, #552929 100%);
+    height: 214vh;
+    width: 100vw;
+}
+#work{
+    flex-direction: column;
+   
+   
+}
+#work .box img{
+    height: 106px;
+}
+#work .box p{
+   font-size: 15px;
+}
+.btn-box{
+    font-size: 11px;
+    display: block;
+    margin: auto;
+}
+
+
+
+/* contact section */
+
+#contact p{
+   
+   font-size: 25px;
+}
+
+
+#contact .center{
+    font-size: 25px;
+}
+
+.centerdiv{
+    width: 319px;
+    margin-left: 27px;
+  
+ 
+}
+#contact a{
+    height: 58px;
+    width: 125px;
+    font-size: 11px;
+    text-align: center;
+    background-color: rgb(255, 254, 254);
+    border-radius: 45px;
+    margin: 9px;
+    line-height: 80px;
+    box-shadow: 1px 4px 2px 2px rgb(151 114 114);
+    margin-bottom: 202px;
+}
+  
